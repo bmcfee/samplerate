@@ -18,8 +18,8 @@ LICENSE             = 'GPL'
 DOWNLOAD_URL        = 'http://pypi.python.org/pypi/scikits.samplerate'
 
 MAJOR = 0
-MINOR = 4
-MICRO = 0
+MINOR = 3
+MICRO = 4
 DEV = True
 
 CLASSIFIERS = ['Development Status :: 4 - Beta',
